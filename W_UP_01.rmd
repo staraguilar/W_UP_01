@@ -75,4 +75,6 @@ We can see that there is a significant different in mean push ups between groups
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+  
+In conclusion from the evidence we gathered from the box plots and graphs we can see that skill group did more push ups than line.
+  
